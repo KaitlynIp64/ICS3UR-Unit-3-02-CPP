@@ -27,6 +27,6 @@ int main() {
         // output
         std::cout << "You guessed the wrong number! Try again!";
     }
-    
+
     std::cout << "\nDone." << std::endl;
 }
